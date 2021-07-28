@@ -199,3 +199,11 @@ CCTV-15,rtp://239.253.252.16:8000
 中国教育-1,rtp://239.253.252.55:8000
 居家购物,rtp://239.253.252.104:8000
 IPTV九画面,rtp://239.253.252.167:8000
+凤凰卫视中文台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰卫视资讯台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰卫视电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+国家地理频道,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
