@@ -35,10 +35,6 @@ http://10.10.0.1:4022/udp/239.253.252.175:8000
 http://10.10.0.1:4022/udp/239.253.252.236:8000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15高清
 http://10.10.0.1:4022/udp/239.253.252.170:8000
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16高清
-http://10.10.0.1:4022/udp/239.253.252.231:8000
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K
-http://10.10.0.1:4022/udp/239.253.252.116:8000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17高清
 http://10.10.0.1:4022/udp/239.253.252.168:8000
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
